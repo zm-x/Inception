@@ -1092,7 +1092,7 @@ docker volume ls
 docker network ls
 
 # Rebuild
-docker compose up -d --buildقل لي مباشرة أين المشكلة الآن أو ما الذي تحتاجه بالضبط بدون لف ودوران:
+docker compose up -d --build
 
 
 ```
